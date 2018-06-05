@@ -1,2 +1,4 @@
-# react_google_map_api_demo
-ReactJS and Google Maps API Demo
+# ReactJS and Google Maps API Demo
+Google Map Api demo with Reactjs
+
+
